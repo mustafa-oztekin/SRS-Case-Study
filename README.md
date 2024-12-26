@@ -1,7 +1,7 @@
 # SRS Case Study - Sensör Veri İşleme Programı
 ## Programı Derleme ve Çalıştırma Talimatları
 1. C++14 uyumlu bir derleyiciye (örneğin, GCC, __MSVC__) sahip olduğunuzdan emin olun.
-2. Program dosyalarının bulunduğu dizine terminal üzerinden gidin.
+2. Program dosyalarının bulunduğu dizine başlat menüden "Developer Command Prompt for VS 2022" terminali üzerinden gidin.
 3. Programı aşağıdaki komut ile derleyin:
    ```sh
    cl /EHsc Srs.cpp
