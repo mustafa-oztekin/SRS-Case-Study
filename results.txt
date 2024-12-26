@@ -87,3 +87,15 @@ Minimum Value of Raw Data: 36
 Minimum Value of Filtered Data: 88.3333
 Maximum Value of Raw Data: 226
 Maximum Value of Filtered Data: 151.667
+
+
+Yeni Islem Baslatildi:
+207-155-151-9-169-95-
+Number of Data Points: 6
+Moving Average Filtered Data: 171-105-109.667-91-
+Average Value of Raw Data: 131
+Average Value of Filtered Data: 119.167
+Minimum Value of Raw Data: 9
+Minimum Value of Filtered Data: 91
+Maximum Value of Raw Data: 207
+Maximum Value of Filtered Data: 171
