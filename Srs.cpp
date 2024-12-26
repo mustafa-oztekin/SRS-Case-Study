@@ -121,7 +121,7 @@ public:
             return;
         }
         // Dosyanın başına yeni işlem bilgisi
-        MyFile << "\n\n\nYeni İslem Baslatildi:\n";
+        MyFile << "\n\n\nYeni Islem Baslatildi:\n";
         for (int veri : this->rawData)
             MyFile << veri << "-";
         MyFile << "\nNumber of Data Points: " << rawData.size();

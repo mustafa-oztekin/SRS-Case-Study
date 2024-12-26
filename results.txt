@@ -75,3 +75,15 @@ Minimum Value of Raw Data: 2
 Minimum Value of Filtered Data: 25
 Maximum Value of Raw Data: 248
 Maximum Value of Filtered Data: 232
+
+
+Yeni Islem Baslatildi:
+106-36-192-37-226-
+Number of Data Points: 5
+Moving Average Filtered Data: 111.333-88.3333-151.667-
+Average Value of Raw Data: 119.4
+Average Value of Filtered Data: 117.111
+Minimum Value of Raw Data: 36
+Minimum Value of Filtered Data: 88.3333
+Maximum Value of Raw Data: 226
+Maximum Value of Filtered Data: 151.667
