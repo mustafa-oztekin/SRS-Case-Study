@@ -1,0 +1,65 @@
+92-8-46-69-70-21-48-15-93-63-
+Moving Average Filtered Data: 48.6667-41-61.6667-53.3333-46.3333-28-52-57-
+Average Value of Raw Data: 52.5
+Average Value of Filtered Data: 48.5
+Minimum Value of Raw Data: 8
+Minimum Value of Filtered Data: 28
+Maximum Value of Raw Data: 93
+Maximum Value of Filtered Data: 61.6667
+Yeni Ýþlem Baþlatýldý:8-64-64-92-95-82-50-59-47-21-
+Number of Data Points: 10
+Moving Average Filtered Data: 45.3333-73.3333-83.6667-89.6667-75.6667-63.6667-52-42.3333-
+Average Value of Raw Data: 58.2
+Average Value of Filtered Data: 65.7083
+Minimum Value of Raw Data: 8
+Minimum Value of Filtered Data: 42.3333
+Maximum Value of Raw Data: 95
+Maximum Value of Filtered Data: 89.6667
+
+
+Yeni Ýþlem Baþlatýldý:
+95-62-51-86-88-10-0-57-91-7-
+Number of Data Points: 10
+Moving Average Filtered Data: 69.3333-66.3333-75-61.3333-32.6667-22.3333-49.3333-51.6667-
+Average Value of Raw Data: 54.7
+Average Value of Filtered Data: 53.5
+Minimum Value of Raw Data: 0
+Minimum Value of Filtered Data: 22.3333
+Maximum Value of Raw Data: 95
+Maximum Value of Filtered Data: 75
+
+
+Yeni Ýþlem Baþlatýldý:
+-114-94-108--25-86--91--83--117-124-72-
+Number of Data Points: 10
+Moving Average Filtered Data: 29.3333-59-56.3333--10--29.3333--97--25.3333-26.3333-
+Average Value of Raw Data: 5.4
+Average Value of Filtered Data: 1.16667
+Minimum Value of Raw Data: -117
+Minimum Value of Filtered Data: -97
+Maximum Value of Raw Data: 124
+Maximum Value of Filtered Data: 59
+
+
+Yeni Ýþlem Baþlatýldý:
+97-146-117-170-164-88-244-238-149-193-
+Number of Data Points: 10
+Moving Average Filtered Data: 120-144.333-150.333-140.667-165.333-190-210.333-193.333-
+Average Value of Raw Data: 160.6
+Average Value of Filtered Data: 164.292
+Minimum Value of Raw Data: 88
+Minimum Value of Filtered Data: 120
+Maximum Value of Raw Data: 244
+Maximum Value of Filtered Data: 210.333
+
+
+Yeni Ýþlem Baþlatýldý:
+137-131-213-131-139-4-27-171-65-80-
+Number of Data Points: 10
+Moving Average Filtered Data: 160.333-158.333-161-91.3333-56.6667-67.3333-87.6667-105.333-
+Average Value of Raw Data: 109.8
+Average Value of Filtered Data: 111
+Minimum Value of Raw Data: 4
+Minimum Value of Filtered Data: 56.6667
+Maximum Value of Raw Data: 213
+Maximum Value of Filtered Data: 161

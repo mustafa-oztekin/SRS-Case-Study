@@ -1,0 +1,7 @@
+﻿  Srs.cpp
+C:\Users\Mustafa\source\repos\Srs\Srs.cpp(44,74): warning C4244: '=': '_Rep' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\source\repos\Srs\Srs.cpp(44,74): warning C4244:         with
+C:\Users\Mustafa\source\repos\Srs\Srs.cpp(44,74): warning C4244:         [
+C:\Users\Mustafa\source\repos\Srs\Srs.cpp(44,74): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Mustafa\source\repos\Srs\Srs.cpp(44,74): warning C4244:         ]
+  Srs.vcxproj -> C:\Users\Mustafa\source\repos\Srs\x64\Debug\Srs.exe
